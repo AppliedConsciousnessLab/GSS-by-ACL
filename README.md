@@ -10,9 +10,9 @@ Where laws lag, corporations drift, and institutions fracture, GSS provides a ne
 
 ---
 
-## What is GSS?
+## What is GSS by ACL
 
-The **Global Safety Standard (GSS)** is a universal doctrine for:
+The **Global Safety Standard (GSS)** by ACL is a universal doctrine for:
 
 • Human dignity  
 • Emotional and psychological safety  
@@ -23,7 +23,7 @@ The **Global Safety Standard (GSS)** is a universal doctrine for:
 
 It defines **minimum viable safety for civilization**.
 
-GSS is designed to be:
+GSS by ACL is designed to be:
 
 • Open  
 • Forkable  
