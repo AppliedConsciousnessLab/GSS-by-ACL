@@ -83,5 +83,16 @@ Any system violating child safety forfeits all claims of GSS by ACL compliance.
 
 ---
 
+### Implementation Framework
+
+The operational framework for implementing these child protection principles is described in:
+
+Child Safety JANICE Framework  
+Justice, Advocacy, Networked Infrastructure for Child 
+
+See: [Child Safety JANICE Framework](https://github.com/AppliedConsciousnessLab/GSS-by-ACL/blob/main/frameworks/child-safety-janice-framework.md)
+
+
+
 © GSS by Applied Consciousness Lab (ACL)  
 Licensed under CC BY 4.0 — attribution required
