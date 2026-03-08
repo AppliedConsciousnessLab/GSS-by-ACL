@@ -1,0 +1,38 @@
+# JANICE Framework
+
+Justice, Advocacy, Networked Infrastructure for Child Empowerment
+
+The JANICE framework defines a comprehensive multi-layer system for protecting children from abuse, exploitation, trafficking, and systemic neglect.
+
+The framework operates across five operational layers.
+
+1. Prevention Systems
+2. Detection Systems
+3. Response Systems
+4. Community Guardianship
+5. Digital Child Safety
+
+Each module addresses a specific dimension of child protection.
+
+## Modules
+
+Prevention  
+./janice-prevention-systems.md
+
+Detection  
+./janice-detection-systems.md
+
+Response  
+./janice-response-systems.md
+
+Community Guardianship  
+./janice-community-guardianship.md
+
+Digital Child Safety  
+./janice-digital-child-safety.md
+
+## Relationship to GSS
+
+JANICE operationalizes the child protection mandate defined in:
+
+Appendix E — Child Protection & Development
