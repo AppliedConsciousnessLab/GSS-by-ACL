@@ -52,6 +52,14 @@ All implementations of **GSS by ACL** must reference this directory as their sou
 
 ---
 
+### Licensing Scope
+
+All materials contained within the GSS101 layer, including appendices and child safety frameworks such as Janice, are licensed under CC BY 4.0.
+
+Advanced implementations, enforcement systems, and extended frameworks may exist outside this repository and are not included under this license.
+
+---
+
 ## 📎 Official Links
 
 **Global Safety Standard**  
