@@ -2,7 +2,7 @@
 **Global Safety Standard — Canonical Repository**  
 **By Applied Consciousness Lab (ACL)**
 
-This repository is the authoritative home of the **Global Safety Standard (GSS)** — a living, open, human-first framework for defining, protecting, and advancing safety across technology, AI, society, and consciousness.
+This repository is the authoritative home of the **Global Safety Standard (GSS)** — a living, open, human-first framework for defining, protecting, and advancing safety across technology, AI, society, and consciousness.  Note the reason why we use GSS by ACL vs GSS by ASL (Applied Safety Lab) is that ASL is universally understood to be American Sign Language.
 
 GSS exists because **safety is not a feature — it is the foundation**.
 
@@ -111,6 +111,30 @@ This ordering is non-negotiable.
 All materials contained within the GSS101 layer, including appendices. hyken happiness index and child safety frameworks such as Janice, are licensed under CC BY 4.0.
 
 Advanced implementations, enforcement systems, and extended frameworks may exist outside this repository and are not included under this license.
+
+---
+
+## Ecosystem
+Applied Consciousness Lab Ecosystem
+
+The Global Safety Standard (GSS) is part of a broader system designed to define, implement, and measure safety across human and technological domains.
+
+GSS — Foundation Layer
+Defines the minimum viable conditions for safety across individuals, systems, and society.
+
+EP (Emotional Physics) — Internal Alignment Layer
+Provides the internal human framework for belief systems, emotional regulation, and self-alignment with safety principles.
+
+HyKin — Measurement Layer
+Establishes metrics and indices (including the HyKin Happiness Index) to evaluate well-being, safety, and system effectiveness.
+
+Janice — Applied Safety Layer (Child Protection)
+
+Implements GSS principles in high-risk environments, with a focus on child safety, prevention systems, detection, and response.
+
+Together, these systems form a unified model:
+
+Define → Align → Measure → Protect
 
 ---
 
