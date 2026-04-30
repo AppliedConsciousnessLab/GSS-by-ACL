@@ -99,6 +99,15 @@ Agency precedes choice.
 This ordering is non-negotiable.
 
 ---
+
+### Licensing Scope
+
+All materials contained within the GSS101 layer, including appendices. hyken happiness index and child safety frameworks such as Janice, are licensed under CC BY 4.0.
+
+Advanced implementations, enforcement systems, and extended frameworks may exist outside this repository and are not included under this license.
+
+---
+
 ## Support GSS by ACL
 
 GSS by ACL is free and open for the world.
