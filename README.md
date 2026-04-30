@@ -72,6 +72,12 @@ or
 
 Both are considered valid canonical attribution.
 
+Licensing Scope
+
+All materials contained within the GSS101 layer, including appendices, hykin happiness index and child safety frameworks such as Janice, are licensed under CC BY 4.0.
+
+Advanced implementations, enforcement systems, and extended frameworks may exist outside this repository and are not included under this license.
+
 ---
 
 ## Why this matters
