@@ -36,3 +36,9 @@ Digital Child Safety
 JANICE operationalizes the child protection mandate defined in:
 
 Appendix E — Child Protection & Development
+
+## Licensing Scope
+
+All materials contained within the GSS101 layer, including appendices and child safety frameworks such as Janice, are licensed under CC BY 4.0.
+
+Advanced implementations, enforcement systems, and extended frameworks may exist outside this repository and are not included under this license.
