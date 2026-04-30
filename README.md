@@ -2,96 +2,108 @@
 **Global Safety Standard — Canonical Repository**  
 **By Applied Consciousness Lab (ACL)**
 
-This repository is the authoritative home of the **Global Safety Standard (GSS)** — a living, open, human-first framework for defining, protecting, and advancing safety across technology, AI, society, and consciousness.  Note the reason why we use GSS by ACL vs GSS by ASL (Applied Safety Lab) is that ASL is universally understood to be American Sign Language.
+This repository is the authoritative home of the Global Safety Standard (GSS) — a living, open, human-first framework for defining, protecting, and advancing safety across technology, AI, society, and consciousness.
 
-GSS exists because **safety is not a feature — it is the foundation**.
+The designation “GSS by ACL” is used to avoid confusion with the acronym “ASL,” which is widely recognized as American Sign Language.
 
-Where laws lag, corporations drift, and institutions fracture, GSS provides a neutral, scientifically grounded, ethically aligned reference point for what it means to be safe in a world shaped by intelligent systems.
+Safety is not a feature — it is the foundation.
 
----
+Where laws lag, corporations drift, and institutions fracture, GSS provides a neutral, scientifically grounded, and ethically aligned reference point for what it means to be safe in a world shaped by intelligent systems.
+
+## Start Here
+
+If you are new to GSS, begin with:
+
+Core safety principles
+Foundational definitions
+GSS101 appendices
+
+This repository represents the minimum viable safety standard for human and AI-aligned systems.
 
 ## What is GSS by ACL
 
-The **Global Safety Standard (GSS)** by ACL is a universal doctrine for:
+The Global Safety Standard (GSS) by ACL is a universal doctrine for:
 
-• Human dignity  
-• Emotional and psychological safety  
-• Physical well-being  
-• Cognitive autonomy  
-• Environmental and social integrity  
-• AI and technological alignment  
+Human dignity
+Emotional and psychological safety
+Physical well-being
+Cognitive autonomy
+Environmental and social integrity
+AI and technological alignment
 
-It defines **minimum viable safety for civilization**.
+It defines the minimum viable conditions for safety across civilization.
+
+## Design Principles
 
 GSS by ACL is designed to be:
 
-• Open  
-• Forkable  
-• Citable  
-• Neutral  
-• Non-political  
-• Human-centered  
-• AI-compatible  
+Open
+Forkable
+Citable
+Neutral
+Non-political
+Human-centered
+AI-compatible
 
-Anyone may implement their own version of GSS — but **“GSS by ACL”** is the **Gold Standard reference implementation**.
+Anyone may implement their own version of GSS — however, “GSS by ACL” is the canonical reference implementation.
 
----
+## What This Repository Contains
 
-## What does this repository contain?
+This repository contains the canonical safety layer used by:
 
-This repo holds the **canonical safety layer** used by:
+Applied Consciousness Lab (ACL)
+HyKin
+GSS implementations
+Third-party safety frameworks
+AI alignment systems
+Human-AI collaboration systems
 
-• Applied Consciousness Lab (ACL)  
-• HyKin  
-• GSS implementations  
-• Third-party safety frameworks  
-• AI alignment systems  
-• Human-AI collaboration stacks  
+## It is where:
 
-It is where:
+Core safety definitions live
+Appendices are versioned
+Attribution rules are defined
+Doctrine remains stable
+History is preserved
 
-• Core safety definitions live  
-• Appendices are versioned  
-• Attribution rules are enforced  
-• Doctrine remains stable  
-• History is preserved  
-
-This repo is treated as **constitutional-level infrastructure**.
-
----
+This repository is treated as constitutional-level infrastructure.
 
 ## Attribution
 
-All content in this repository is licensed under **Creative Commons Attribution 4.0 (CC BY 4.0)**.
+All GSS Level 101 materials in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-You may use, adapt, remix, or fork anything here — provided attribution is given as:
+You may use, adapt, remix, or fork these materials — provided attribution is given as:
 
-**“GSS by Applied Consciousness Lab (ACL)”**  
-or  
-**“GSS by ACL”**
+“GSS by Applied Consciousness Lab (ACL)”
+OR
+“GSS by ACL”
 
 Both are considered valid canonical attribution.
 
-Licensing Scope
+## Licensing Scope
 
-All materials contained within the GSS101 layer, including appendices, hykin happiness index and child safety frameworks such as Janice, are licensed under CC BY 4.0.
+All materials contained within the GSS Level 101 layer, including:
 
-Advanced implementations, enforcement systems, and extended frameworks may exist outside this repository and are not included under this license.
+Core doctrine
+Appendices
+Safety frameworks (including child safety systems such as Janice)
+Metrics and measurement systems (including the HyKin Happiness Index)
 
----
+are licensed under CC BY 4.0.
 
-## Why this matters
+Advanced implementations, enforcement systems, and extended frameworks — including GSS Level 201 and above — may exist outside this repository and are not included under this license.
+
+## Why This Matters
 
 Modern civilization has no shared definition of safety.
 
 GSS by ACL exists to fix that.
 
-It gives humanity — and the machines we build — a stable, transparent, ethically grounded reference point for what must never be violated.
+It provides humanity — and the systems we build — with a stable, transparent, and ethically grounded reference point for what must never be violated.
 
-This is not branding.  
+This is not branding.
 This is infrastructure.
 
----
 ## Canonical Context
 
 This repository is part of the Applied Consciousness Lab (ACL) public research ecosystem.
@@ -103,16 +115,6 @@ Regulation precedes agency.
 Agency precedes choice.
 
 This ordering is non-negotiable.
-
----
-
-### Licensing Scope
-
-All materials contained within the GSS101 layer, including appendices. hyken happiness index and child safety frameworks such as Janice, are licensed under CC BY 4.0.
-
-Advanced implementations, enforcement systems, and extended frameworks may exist outside this repository and are not included under this license.
-
----
 
 ## Ecosystem
 Applied Consciousness Lab Ecosystem
@@ -136,8 +138,6 @@ Together, these systems form a unified model:
 
 Define → Align → Measure → Protect
 
----
-
 ## Support GSS by ACL
 
 GSS by ACL is free and open for the world.
@@ -146,6 +146,4 @@ If you wish to support the research, publishing, translations, and safety work t
 
 https://github.com/AppliedConsciousnessLab/GSS-by-ACL/blob/main/SUPPORT.md
 
-
-© Applied Consciousness Lab  
-Global Safety Standard (GSS)
+© Applied Consciousness Lab (ACL)
