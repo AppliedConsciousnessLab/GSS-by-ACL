@@ -1,5 +1,12 @@
 # GSS by ACL — Canonical Appendices
 
+ACL University Gateway
+​The GSS is the constitutional foundation of the Applied Consciousness Lab.
+​Are you a student looking for the curriculum?
+Access the guided learning path, including the foundational EP-001 through EP-006 courses, at our GSS-101-Foundations Repository.
+​[Start the Journey: GSS 101]
+
+
 This folder contains the authoritative appendices for the  
 **Global Safety Standard (GSS by Applied Consciousness Lab)**.
 
